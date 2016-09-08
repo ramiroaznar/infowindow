@@ -111,7 +111,7 @@
                 });
             }
 
-            // infowindows
+            /* Add infowindows */
             myapp.layers[1].infowindow.update({
               fields: [
                 {
